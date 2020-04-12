@@ -1,0 +1,21 @@
+body{
+      background-color: #f1e7b6;
+      text-align: center;
+      color: #00bcd4;
+      font-family: "Helvetica", sans-serif;
+    }
+    hr{
+      background-color: none;
+      border-color: grey;
+      border-radius: 5px;
+      border-width: 5px;
+      border-style: dotted none none;
+      height: 2px;
+      width: 10%;
+    }
+    table{
+      align-content: center;
+    }
+    h1,h3{
+      color: #00bdaa;
+    }
